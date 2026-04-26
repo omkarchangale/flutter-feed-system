@@ -5,7 +5,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import 'screens/feed_screen.dart';
 
 const String supabaseUrl = "https://wxtoaxdnadknqkrmjbys.supabase.co";
-const String supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind4dG9heGRuYWRrbnFrcm1qYnlzIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3NzA1NjYwMSwiZXhwIjoyMDkyNjMyNjAxfQ.Qm9pvtVSZ4f8DPQicvKJj6wEkDTdFO4KBNwbsTrrJC4'
+const String supabaseAnonKey = ''
 ;
 
 // Hardcoded test user (no auth needed)
